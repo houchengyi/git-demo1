@@ -1,3 +1,4 @@
+
  hello world
  hello world
  hello world
@@ -13,4 +14,25 @@
  hello world
  hello world
  hello world
+ hot fix
+
+
+
+
+
+
+~
+~
+~
+~
+~
+hello.txt[+] [dos] (18:38 16/09/2022)                                                          11,1 All
+-- INSERT --
+hello world
+
+
+
+
+
+>>>>>>> hotfix
 
